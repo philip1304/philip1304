@@ -38,7 +38,7 @@
 - AI/ML
 
 ### //_Past_Courses
-List of courses I've taken at Victoria University of Wellington & National University of Singapore
+List of courses I've taken at Victoria University of Wellington & National University of Singapore.
 #### //_300_LEVEL
 - AIML320 - Artificial Intelligence
 - ASIA304 - Modern Korean Society
@@ -54,7 +54,7 @@ List of courses I've taken at Victoria University of Wellington & National Unive
 - NWEN243 - Clouds & Networking
 - SWEN225 - Software Design
 - CS2040C - Data Structures & Algorithms in C and C++ (NUS)
-- CS2113  - Software Engineering & Object-oriented Programming (NUS)\
+- CS2113  - Software Engineering & Object-oriented Programming (NUS)
 - LAJ2201 - Japanese 2 (NUS)
 
 #### //_100_LEVEL
