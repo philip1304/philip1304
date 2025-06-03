@@ -37,6 +37,39 @@
 - Databases (SQL, mySQL)
 - AI/ML
 
+### //_Past_Courses
+List of courses I've taken at Victoria University of Wellington & National University of Singapore
+#### //_300_LEVEL
+- AIML320 - Artificial Intelligence
+- ASIA304 - Modern Korean Society
+- CYBR372 - Applied Cryptography
+- SWEN303 - User Experience Engineering
+- SWEN304 - Database System Engineering
+
+#### //_200_LEVEL
+- COMP261 - Algorithms & Data Structures
+- CYBR271 - Code Security
+- JAPA201 - Japanese Language 2A
+- NWEN241 - Systems Programming
+- NWEN243 - Clouds & Networking
+- SWEN225 - Software Design
+- CS2040C - Data Structures & Algorithms in C and C++ (NUS)
+- CS2113  - Software Engineering & Object-oriented Programming (NUS)\
+- LAJ2201 - Japanese 2 (NUS)
+
+#### //_100_LEVEL
+- AIML131 - Introduction to Artificial Intelligence
+- COMP102 - Introduction to Computer Program Design
+- COMP103 - Introduction to Data Structures & Algorithms
+- CYBR171 - Cybersecurity Fundamentals
+- DATA101 - Introduction to Data Science
+- ENGR121 - Engineering Mathematics Foundations
+- ENGR123 - Engineering Mathematics with Logics & Statistics
+- JAPA101 - Introduction to the Japanese Language
+- JAPA102 - Elementary Japanese
+- MATH132 - Introduction to Mathematical Thinking
+- LAC1201 - Chinese 1 (NUS)
+
 ## 🛠️ //_Tech_Stack
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
