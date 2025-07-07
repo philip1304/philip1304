@@ -26,7 +26,7 @@
 
 
 ### ⏳ //_Currently
-- Working on university coursework to graduate by 2026
+- Working on university coursework to graduate end of 2025
 - Debugging a Fabric Minecraft modpack
 - Building out a GitHub portfolio
 - Reading manhwa
